@@ -1,0 +1,52 @@
+summary: >-
+  Our manufacturing capability is vast; below we have included a small showcase of clothing 
+  which we can produce for your brand. All items are created to your specifications, 
+  including those for fabric or raw materials, sizing and finishing options. 
+  Please do not hesitate to get in touch if you would like to discuss your designs.
+categories:
+  - cat: Lingerie
+  - cat: Tops
+  - cat: Kids Sets
+  - cat: Trousers & Shorts
+  - cat: Sweatshirts & Hoodies
+  - cat: Shirts & Blouses
+  - cat: Swimwear & Beachwear
+  - cat: Nightwear & Loungewear
+  - cat: Custom
+list:
+  - url: 
+    image: /assets/images/portfolio/woman-in-lingerie.jpg
+    title: Woman in Lingerie
+    category: Lingerie
+  - url:
+    image: /assets/images/portfolio/woman-in-gray-tank-top.jpg
+    title: Woman in Gray Tank Top
+    category: Tops
+  - url:
+    image: /assets/images/portfolio/boy-in-sportswear.jpg
+    title: Boy in Sportswear
+    category: Kids Sets
+  - url:
+    image: /assets/images/portfolio/man-in-khaki-trousers.jpg
+    title: Man in Khaki Trousers
+    category: Trousers & Shorts
+  - url:
+    image: /assets/images/portfolio/woman-in-blue-sweatshirt.jpg
+    title: Woman in Blue Sweatshirt
+    category: Sweatshirts & Hoodies
+  - url:
+    image: /assets/images/portfolio/woman-in-yellow-shirt.jpg
+    title: Woman in Yellow Shirt
+    category: Shirts & Blouses
+  - url:
+    image: /assets/images/portfolio/woman-in-one-piece-suit.jpg
+    title: Woman in One-Piece-Suit
+    category: Swimwear & Beachwear
+  - url:
+    image: /assets/images/portfolio/couple-in-nightwear.jpg
+    title: Couple in Nightwear
+    category: Nightwear & Loungewear
+  - url:
+    image: /assets/images/portfolio/provide-what-yout-need.jpg
+    title: Provide What You Need
+    category: Custom
