@@ -6251,7 +6251,7 @@ b,strong {
 }
 
 .nk-header.nk-header-opaque,.nk-navbar {
-  position: sticky; /* change from relative to sticky -- saiho */
+  position: relative;
 }
 
 .nk-navbar {
